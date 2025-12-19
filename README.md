@@ -3,7 +3,7 @@
 - **Autor:** Antonio Miguel García del Río
 - **Fecha:** 17/12/2025
 - **Asignatura:** UOC - Cultura Digital
-- **Licencia:** NO LICENSE
+- **Licencia:** CC BY-SA 4.0
 
 ---
 
